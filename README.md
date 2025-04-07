@@ -1,64 +1,25 @@
-<h2 align="center">🧭 Ah, greetings Traveller — I am Dhairyasen Deshmukh</h2>
+<h1 align="center">Hi 👋, I'm DhairyasenDeshmukh</h1>
+<h3 align="center">Aspiring Data Analyst | Tech Enthusiast | Creative Visualizer | Trading Aficionado</h3>
 
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhairyasendeshmukh&label=Profile%20views&color=0e75b6&style=flat" alt="dhairyasendeshmukh" /> </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DhairyasenDeshmukh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DhairyasenDeshmukh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhairyasendeshmukh" alt="dhairyasendeshmukh" /></a> </p>
 
-###
+- 🌱 I’m currently learning **SQL**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="unrealengine logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-</div>
+- 📫 How to reach me **deshmukhdhairyasen@gmail.com**
 
-###
+- 📄 Know about my experiences [https://drive.google.com/file/d/1xOo69ml4NJQGNyFuypKypgtofwK3nkas/view?usp=drive_link](https://drive.google.com/file/d/1xOo69ml4NJQGNyFuypKypgtofwK3nkas/view?usp=drive_link)
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="60" height="40" alt="youtube logo"  />
-  <a href="https://www.instagram.com/dhairyasen_deshmukh/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  />
-  </a>
-  <a href="dhairyasen" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="40" alt="discord logo"  />
-  </a>
-  <a href="deshmukhdhairyasen@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/dhairyasen-deshmukh-36ab30250/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/dhairyasen deshmukh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhairyasen deshmukh" height="30" width="40" /></a>
+<a href="https://instagram.com/dhairyasen deshmukh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhairyasen deshmukh" height="30" width="40" /></a>
+</p>
 
-###
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhairyasendeshmukh&show_icons=true&locale=en&layout=compact" alt="dhairyasendeshmukh" /></p>
 
-###
-
-<p align="left">I am Dhairyasen Deshmukh, a passionate data alchemist 🧪, digital artisan 🖌️, and trading tactician 📈—on a mission to transform numbers into narratives and dashboards into experiences. Currently pursuing my B.Tech in Technology and Innovation, I dwell at the intersection of data, design, and decision-making.<br><br>With a keen eye for visual storytelling, a love for market rhythms, and an ever-burning drive to learn, I’m not just studying tech—I’m crafting my side hustle in trading and turning insights into impact.<br><br>Welcome to my digital domain. Let’s build brilliance, one project at a time. 🌟</p>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DhairyasenDeshmukh/DhairyasenDeshmukh/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DhairyasenDeshmukh/DhairyasenDeshmukh/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DhairyasenDeshmukh/DhairyasenDeshmukh/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Dhairyasen">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Dhairyasen&count=3" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhairyasendeshmukh&show_icons=true&locale=en" alt="dhairyasendeshmukh" /></p>
