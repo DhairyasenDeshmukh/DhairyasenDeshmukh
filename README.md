@@ -1,37 +1,27 @@
-# 💫 About Me:
-👋 Hi, I’m Dooti,<br>
-👀 I’m interested in data science, AI, and fitness tracking apps.<br>
-🌱 I’m currently learning machine learning, data visualization, and advanced Python.<br>
-💞️ I’m looking to collaborate on data science projects, open-source AI tools, and fitness/health-related apps.<br>
-📫 How to reach me: dootisaha.2325@gmail.com<br>
-⚡ Fun fact: I lift weights and data — powered by protein shakes, Python, and Lord Krishna!
+<h1 align="center">Hi 👋, I'm DhairyasenDeshmukh</h1>
+<h3 align="center">Aspiring Data Analyst | Tech Enthusiast | Creative Visualizer | Trading Aficionado</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhairyasendeshmukh&label=Profile%20views&color=0e75b6&style=flat" alt="dhairyasendeshmukh" /> </p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) <br>
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) <br>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) <br>
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white)
-![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat&logo=Adobe%20Acrobat%20Reader&logoColor=white) <br>
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) <br>
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) <br>
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhairyasendeshmukh" alt="dhairyasendeshmukh" /></a> </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dooti2325&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=dooti2325&theme=midnight-purple&hide_border=false)
+- 🌱 I’m currently learning **SQL**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dooti2325&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+- 📫 How to reach me **deshmukhdhairyasen@gmail.com**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1xOo69ml4NJQGNyFuypKypgtofwK3nkas/view?usp=drive_link](https://drive.google.com/file/d/1xOo69ml4NJQGNyFuypKypgtofwK3nkas/view?usp=drive_link)
 
----
-[![](https://visitcount.itsvg.in/api?id=dooti2325&icon=1&color=6)](https://visitcount.itsvg.in)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/dhairyasen deshmukh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhairyasen deshmukh" height="30" width="40" /></a>
+<a href="https://instagram.com/dhairyasen deshmukh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhairyasen deshmukh" height="30" width="40" /></a>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhairyasendeshmukh&show_icons=true&locale=en&layout=compact" alt="dhairyasendeshmukh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhairyasendeshmukh&show_icons=true&locale=en" alt="dhairyasendeshmukh" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhairyasendeshmukh&" alt="dhairyasendeshmukh" /></p>
