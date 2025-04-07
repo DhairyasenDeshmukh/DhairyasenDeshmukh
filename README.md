@@ -1,25 +1,49 @@
-<h1 align="center">Hi 👋, I'm DhairyasenDeshmukh</h1>
-<h3 align="center">Aspiring Data Analyst | Tech Enthusiast | Creative Visualizer | Trading Aficionado</h3>
+<h2 align="center">🧭 Ah, greetings Traveller — I am Dhairyasen Deshmukh</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhairyasendeshmukh&label=Profile%20views&color=0e75b6&style=flat" alt="dhairyasendeshmukh" /> </p>
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhairyasendeshmukh" alt="dhairyasendeshmukh" /></a> </p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="unrealengine logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
 
-- 🌱 I’m currently learning **SQL**
+###
 
-- 📫 How to reach me **deshmukhdhairyasen@gmail.com**
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
+  <a href="https://www.instagram.com/dhairyasen_deshmukh/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  </a>
+  <a href="dhairyasen" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+  </a>
+  <a href="deshmukhdhairyasen@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/dhairyasen-deshmukh-36ab30250/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xOo69ml4NJQGNyFuypKypgtofwK3nkas/view?usp=drive_link](https://drive.google.com/file/d/1xOo69ml4NJQGNyFuypKypgtofwK3nkas/view?usp=drive_link)
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dhairyasen deshmukh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhairyasen deshmukh" height="30" width="40" /></a>
-<a href="https://instagram.com/dhairyasen deshmukh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhairyasen deshmukh" height="30" width="40" /></a>
-</p>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhairyasendeshmukh&show_icons=true&locale=en" alt="dhairyasendeshmukh" /></p>
+<p align="left">I am Dhairyasen Deshmukh, a passionate data alchemist 🧪, digital artisan 🖌️, and trading tactician 📈—on a mission to transform numbers into narratives and dashboards into experiences. Currently pursuing my B.Tech in Technology and Innovation, I dwell at the intersection of data, design, and decision-making.<br><br>With a keen eye for visual storytelling, a love for market rhythms, and an ever-burning drive to learn, I’m not just studying tech—I’m crafting my side hustle in trading and turning insights into impact.<br><br>Welcome to my digital domain. Let’s build brilliance, one project at a time. 🌟</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhairyasendeshmukh&" alt="dhairyasendeshmukh" /></p>
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DhairyasenDeshmukh/DhairyasenDeshmukh/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DhairyasenDeshmukh/DhairyasenDeshmukh/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DhairyasenDeshmukh/DhairyasenDeshmukh/output/pacman-contribution-graph.svg">
+</picture>
+
+###
