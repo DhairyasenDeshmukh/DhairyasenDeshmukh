@@ -2,6 +2,14 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DhairyasenDeshmukh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=DhairyasenDeshmukh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=DhairyasenDeshmukh&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="unrealengine logo"  />
   <img width="20" />
@@ -30,7 +38,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="250" src="https://media.giphy.com/media/SOxiI4hJhqW6GdZ2rJ/giphy.gif?cid=ecf05e475t80xmja1t9xs7w6gxievp5o3fsblzifj8b484lj&ep=v1_stickers_search&rid=giphy.gif&ct=s"  />
 
 ###
 
