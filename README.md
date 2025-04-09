@@ -38,7 +38,7 @@
 
 ###
 
-<img align="right" height="250" src="https://media.giphy.com/media/SOxiI4hJhqW6GdZ2rJ/giphy.gif?cid=ecf05e475t80xmja1t9xs7w6gxievp5o3fsblzifj8b484lj&ep=v1_stickers_search&rid=giphy.gif&ct=s"  />
+<img align="right" height="250" src="https://media.giphy.com/media/891HeTEPBFgX9jAdAx/giphy.gif?cid=ecf05e47oyppnum6ru5t4nlm770ylz9h13ohcx7g5a9hpl0h&ep=v1_stickers_search&rid=giphy.gif&ct=s"  />
 
 ###
 
@@ -46,18 +46,12 @@
 
 ###
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DhairyasenDeshmukh/DhairyasenDeshmukh/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DhairyasenDeshmukh/DhairyasenDeshmukh/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DhairyasenDeshmukh/DhairyasenDeshmukh/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/DhairyasenDeshmukh/count.svg?"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/DhairyasenDeshmukh/DhairyasenDeshmukh/output/snake.svg" alt="Snake animation" />
 
 ###
