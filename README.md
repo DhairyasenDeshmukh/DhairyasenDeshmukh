@@ -39,7 +39,11 @@
 
 ###
 
-<p align="left">I am Dhairyasen Deshmukh, a passionate data alchemist 🧪, digital artisan 🖌️, and trading tactician 📈—on a mission to transform numbers into narratives and dashboards into experiences. Currently pursuing my B.Tech in Technology and Innovation, I dwell at the intersection of data, design, and decision-making.<br><br>With a keen eye for visual storytelling, a love for market rhythms, and an ever-burning drive to learn, I’m not just studying tech—I’m crafting my side hustle in trading and turning insights into impact.<br><br>Welcome to my digital domain. Let’s build brilliance, one project at a time. 🌟</p>
+<p align="left">I am Dhairyasen Deshmukh — a passionate data alchemist 🧪, digital artisan 🖌️, indie game developer 🎮, and trading tactician 📈—on a mission to transform numbers into narratives, pixels into play, and dashboards into immersive experiences.
+
+Currently pursuing my B.Tech in Technology and Innovation, I dwell at the intersection of data, design, decision-making, and game development. With a keen eye for visual storytelling, a love for market rhythms, and a creative spark for crafting interactive worlds in Godot Engine, I’m not just studying tech—I’m shaping it through data, games, and code.
+
+Welcome to my digital domain. Let’s build brilliance, one project at a time. 🌟</p>
 
 ###
 
